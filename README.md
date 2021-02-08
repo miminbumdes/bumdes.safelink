@@ -1,0 +1,2 @@
+# bumdes.safelink
+safelink
